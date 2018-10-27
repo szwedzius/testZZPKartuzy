@@ -53,7 +53,7 @@ int main()
 		cout<<"Domy:" << domy1 <<endl;
 		cout<<"Farmy:" << farmy1 << endl;
 		cout<<"Sklepy:" << sklepy1 << endl;
-		cout<<"Bazy wojakowe:" << bazy_wojskowe1 <<endl;
+		cout<<"Bazy wojskowe:" << bazy_wojskowe1 <<endl;
 		cout<<"Ludzie:" <<ludzie1 << endl;
 		cout<<"Zolnierze:" <<zolnierze1 <<endl;
 		SetConsoleTextAttribute( hOut, FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_RED | FOREGROUND_INTENSITY );
@@ -66,7 +66,7 @@ int main()
 		cout<<"Domy:" << domy2 <<endl;
 		cout<<"Farmy:" << farmy2 << endl;
 		cout<<"Sklepy:" << sklepy2 << endl;
-		cout<<"Bazy wojakowe:" << bazy_wojskowe2 <<endl;
+		cout<<"Bazy wojskowe:" << bazy_wojskowe2 <<endl;
 		cout<<"Ludzie:" <<ludzie2 << endl;
 		cout<<"Zolnierze:" <<zolnierze2 <<endl;
 		SetConsoleTextAttribute( hOut, FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_RED | FOREGROUND_INTENSITY );
