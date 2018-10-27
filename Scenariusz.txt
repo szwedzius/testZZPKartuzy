@@ -1,1 +1,14 @@
 Scenariusz
+akt 1{
+
+}
+akt 2{
+
+}
+akt 4{
+
+}
+akt 5{
+
+};
+return dne;
