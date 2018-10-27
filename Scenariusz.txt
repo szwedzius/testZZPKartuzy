@@ -10,15 +10,15 @@ pierniki
 ...
 }
 verb budynki(){
-farmy
-dom
-koszary
-tartak
-kopalnia
-manufaktury
+farmy -ludzie -drewno +jedzenie
+dom -drewno -kamien +limitLudzie
+koszary -drewno -kamien  +limitArmia
+tartak -kamien -ludzie +drewno/ture
+kopalnia -drewno -ludzie +kamien/ture
+manufaktury ?
 {rozszerzenie}
-bastion
-koscioły
+bastion -kamien -dewno
+koscioły -kamien
 domy kultury
 }
 verb surowce(){
