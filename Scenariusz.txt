@@ -2,13 +2,31 @@ Scenariusz
 Nazwa gry:
 revOemaG
 class projekt{
-verb akt(){
-
+verb frakcje(){
+misie
+zapałki
+karty
+pierniki
+...
 }
-verb akt2(){
-
+verb budynki(){
+farmy
+dom
+koszary
+tartak
+kopalnia
+manufaktury
+{rozszerzenie}
+bastion
+koscioły
+domy kultury
 }
-verb akt3(){
+verb surowce(){
+ludzie
+zbrojni
+jedzenie
+kamienie
+drewno
 
 }
 verb akt4(){
