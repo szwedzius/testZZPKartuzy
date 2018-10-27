@@ -1,6 +1,6 @@
 Scenariusz
 Nazwa gry:
-remOemaG
+revOemaG
 akt 1{
 
 }
