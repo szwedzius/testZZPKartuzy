@@ -14,20 +14,23 @@ farmy -ludzie -drewno +jedzenie
 dom -drewno -kamien +limitLudzie
 koszary -drewno -kamien  +limitArmia
 tartak -kamien -ludzie +drewno/ture
-kopalnia -drewno -ludzie +kamien/ture
-manufaktury ?
+kamieniołom -drewno -ludzie +kamien/ture
+kopalnia -drewno -ludzie +złoto/ture
+magazyn -drewno -złoto - ludzie +miejsce na surowce
+...?
 {rozszerzenie}
-bastion -kamien -dewno
-koscioły -kamien
-domy kultury
+bastion -kamien -dewno +defensywa?
+koscioły -kamien -drewno +religia?
+domy kultury -kamien -drewno +kultura?
 }
 verb surowce(){
-ludzie
-zbrojni
+ludzie -jedzenie/ture (potrzebni do produkcji surowców) // dostajesz procent twoich ludzi na ture
+zbrojni -jedzenie/ture -złoto/ture (potrzebni do ataków i defensyw) 
 jedzenie
 kamienie
 drewno
-
+zloto
+...?
 }
 verb akt4(){
 
