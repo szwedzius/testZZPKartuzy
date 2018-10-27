@@ -1,4 +1,6 @@
 Scenariusz
+Nazwa gry:
+remOemaG
 akt 1{
 
 }
