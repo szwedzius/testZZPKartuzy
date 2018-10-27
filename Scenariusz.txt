@@ -1,16 +1,17 @@
 Scenariusz
 Nazwa gry:
 revOemaG
-akt 1{
+class projekt{
+verb akt(){
 
 }
-akt 2{
+verb akt2(){
 
 }
-akt 4{
+verb akt3(){
 
 }
-akt 5{
+verb akt4(){
 
-};
-return dne;
+}}
+
